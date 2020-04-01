@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/uu1t/gas-toggl-to-google-calendar) 
+
 # toggl-to-google-calendar
 
 [![Build Status](https://travis-ci.org/uu1t/gas-toggl-to-google-calendar.svg?branch=master)](https://travis-ci.org/uu1t/gas-toggl-to-google-calendar)
